@@ -1,0 +1,21 @@
+r29 Illustrations
+
+1 - Grab Everything with 'illustrated by' and accompanying picture
+2 - Display it as gallery (View A)
+3 - Click to view
+4 - Details (View B)
+5 -
+
+2 Components?
+
+to grab...
+<div class="image-container">
+        <img class="slide-image displayOnVisible" src="//s3.r29static.com//bin/entry/5d2/x/1629816/image.png">
+      <div class="slide-image-buttons">
+          <a class="img-fb-it-button small icon-facebook"></a>
+          <a class="img-pin-it-button small icon-pinterest" data-pin-custom="true" data-pin-log="button_pinit" data-pin-href="https://www.pinterest.com/pin/create/button?guid=S4GsBoyS1568-19&amp;url=http%3A%2F%2Fwww.refinery29.com%2Fbody-types-flattering-clothing-guide&amp;media=http%3A%2F%2Fs3.r29static.com%2F%2Fbin%2Fentry%2F5d2%2Fx%2F1629816%2Fimage.png&amp;description=The%20Body%20Shape%20Guide%20You%20Haven't%20Seen%20Yet%20%23refinery29%0A%0Ahttp%3A%2F%2Fwww.refinery29.com%2Fbody-types-flattering-clothing-guide%23slide-9%0A%0AThe%20Shape%3A%20%22I%20often%20describe%20my%20body%20as%20'boobs%20on%20legs.'%20Just%20another%20way%20of%20saying%20my%20bust%20is%20obviously%20my%20largest%20proportion%20but%20also%20my%20torso%20is%20short.%20Sometimes%20I%20also%20say%20I%20have%20'boy%20hips'%20because%20I%20lack%20an%20hourglass%20curve%20on%20my%20bottom%20half%2C%20and%20my%20hips%20are%20pretty%20much%20the%20same%20width%20of%20my%20mid-section.%22The%20Recommendation%3A%20Look%20for%20silhouettes%20that%20bis..."></a>
+      </div>
+      <div class="slide-credit">
+        Illustrated by Laura Callaghan.
+      </div>
+    </div>
